@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 **install.packages('dplyr')** <br/>
 install.packages('tidyverse') <br/>
 library(dplyr) <br/>
-library(tidyverse)
+library(tidyverse) and
