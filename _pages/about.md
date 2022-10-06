@@ -16,9 +16,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Assignment 1 codes:
+*Assignment 1 codes:*
 
-install.packages('dplyr')
-install.packages('tidyverse')
-library(dplyr)
-library(tidyverse)
+**install.packages('dplyr')** <br/>
+install.packages('tidyverse') <br/>
+library(dplyr) <br/>
+library(tidyverse) <br/>
